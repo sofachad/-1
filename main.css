@@ -360,7 +360,7 @@
 
 .modal-product-image-one {
   height: 200px;
-  background-image: url(./images/Frame\ 32.png);
+  background-image: url("./images/Frame 32.png");
   border-radius: 10px;
   margin-bottom: 1rem;
   background-repeat: no-repeat;
@@ -368,9 +368,10 @@
   align-items: center;
   justify-content: center;
 }
+
 .modal-product-image-two {
   height: 200px;
-  background-image: url(./images/Frame\ 34.png);
+  background-image: url("./images/Frame 33.png");
   border-radius: 10px;
   margin-bottom: 1rem;
   background-repeat: no-repeat;
@@ -378,9 +379,10 @@
   align-items: center;
   justify-content: center;
 }
+
 .modal-product-image-three {
   height: 200px;
-  background-image: url(./images/Frame\ 38.png);
+  background-image: url("./images/Frame 34.png");
   border-radius: 10px;
   margin-bottom: 1rem;
   background-repeat: no-repeat;
@@ -388,13 +390,14 @@
   align-items: center;
   justify-content: center;
 }
+
 .modal-product-image-four {
   height: 200px;
-  background-image: url(./images/Frame\ 33.png);
+  background-image: url("./images/Frame 33.png");
   border-radius: 10px;
   margin-bottom: 1rem;
   background-repeat: no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
-}/*# sourceMappingURL=main.css.map */
+} /*# sourceMappingURL=main.css.map */
